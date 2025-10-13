@@ -13,7 +13,7 @@
 - 💻 Data Analyst sharing real-world projects & continuous growth  
 - 🎓 Background in Software and Data Engineering  
 - 📊 Passionate about data storytelling, dashboarding & automation  
-- 📚 Currently learning **Spanish** 🇪🇸 and deepening **ML skills**  
+- 📚 Currently learning deepening **ML skills**  
 - 🔍 Exploring opportunities in **BI, analytics, and insights generation**  
 - 🧠 Forever curious. Always learning. Always building.  
 
@@ -63,7 +63,6 @@
 
 - 🧠 Machine Learning for analytics use cases  
 - 📈 Time Series Forecasting  
-- 🗣️ Spanish – ¡Hola, amigos!
 
 ---
 
