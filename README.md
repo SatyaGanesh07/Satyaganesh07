@@ -52,3 +52,13 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/satyaganesh-data-analyst/)  
 - 💻 [Portfolio](https://satyaganesh-analyst-portfolio-proje.vercel.app/)
+
+
+
+
+
+###
+
+
+
+##
