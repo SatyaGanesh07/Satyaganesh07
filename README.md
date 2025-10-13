@@ -67,15 +67,6 @@
 
 ---
 
-## 📜 Certifications
-
-- ✅ Google Data Analytics Professional Certificate – *Coursera*  
-- ✅ Microsoft Certified: Data Analyst Associate – *Power BI*  
-- ✅ Python for Data Science – *Datacamp / IBM*  
-> _Add your real or in-progress certifications here_
-
----
-
 ## 🏆 Achievements
 
 - 🏅 Built 5 complete end-to-end dashboarding projects using real datasets  
