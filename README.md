@@ -41,10 +41,10 @@
 ---
 
 ## 📊 Featured Projects
-
-- 📌 [E-commerce Sales and Returns Dashboard](https://github.com/marijatech/E-commerce-Sales-and-Returns-Dashboard)  
-- 📌 [Telecom Customer Churn Analysis](https://github.com/marijatech/Telecom-Churn-Analysis)  
-- 📌 [HR Analytics: Excel & Power BI insights](https://github.com/marijatech)
+- 📌 [Awesome Chocolate - Shipment & Sales Analytics](https://github.com/SatyaGanesh07/Awesome-Choco-Sales-Analytics-PowerBi.git)
+- 📌 [Airline Reservation Management](https://github.com/SatyaGanesh07/Airline-Reservation-Management-MySQL.git)  
+- 📌 [ Hotel Booking Data Analysis](https://github.com/SatyaGanesh07/Web-Scraping-and-EDA-project.git)
+- 📌 [Coffee Shop Sales Analysis](https://github.com/SatyaGanesh07/Coffee-Shop-Sales-Analysis-SQL.git)
 
 ---
 
