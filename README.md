@@ -1,4 +1,4 @@
-![logo](https://github.com/ParthM16/ParthM16/blob/main/Data%20Analyst%20Banner.png)
+![logo](https://github.com/SatyaGanesh07/Satyaganesh07/blob/1ea268e6fd93a83877b6021fcec008b119004089/satyaganesh07.jpg)
 
 <h1 align="center">👋 Hi, I'm SatyaGanesh!</h1>
 <h3 align="center">A passionate Data Analyst</h3>
