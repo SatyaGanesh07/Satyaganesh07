@@ -1,4 +1,4 @@
-![logo](https://github.com/SatyaGanesh07/Satyaganesh07/blob/1ea268e6fd93a83877b6021fcec008b119004089/satyaganesh07.jpg)
+![logo](https://github.com/SatyaGanesh07/Satyaganesh07/blob/07516b1b5ab63be0c4dbfd025dc217623d45b84c/satyaganesh07_coverPage.png)
 <h1 align="center">👋 Hi, I'm SatyaGanesh!</h1>
 <h3 align="center">A Passionate Data Analyst | Turning Data Into Insightful Stories</h3>
 
