@@ -10,8 +10,7 @@
 
 <div>
 
-- 💻 Data Analyst sharing real-world projects & continuous growth  
-- 🎓 Background in Software and Data Engineering  
+- 💻 Data Analyst sharing real-world projects & continuous growth   
 - 📊 Passionate about data storytelling, dashboarding & automation  
 - 📚 Currently learning deepening **ML skills**  
 - 🔍 Exploring opportunities in **BI, analytics, and insights generation**  
@@ -52,7 +51,7 @@
 ## 🛠️ Tools & Workflow
 
 - 📌 Data cleaning with **Pandas**, **NumPy**
-- 📊 Dashboarding in **Power BI**, **Tableau**, **Excel**
+- 📊 Dashboarding in **Power BI**, **Excel**
 - 🔁 Automation via **Python scripting**
 - 🗃️ Version control with **Git & GitHub**
 - 📎 Documentation and reporting in **Notion**, **Markdown**, **Google Workspace**
