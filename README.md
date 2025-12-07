@@ -10,11 +10,11 @@
 
 <div>
 
-- 💻 Data Analyst sharing real-world projects & continuous growth   
-- 📊 Passionate about data storytelling, dashboarding & automation  
-- 📚 Currently learning deepening **ML skills**  
-- 🔍 Exploring opportunities in **BI, analytics, and insights generation**  
-- 🧠 Forever curious. Always learning. Always building.  
+- Data Analyst sharing real-world projects & continuous growth   
+- Passionate about data storytelling, dashboarding & automation  
+- Currently learning deepening **ML skills**  
+- Exploring opportunities in **BI, analytics, and insights generation**  
+- Forever curious. Always learning. Always building.  
 
 </div>
 
@@ -24,13 +24,13 @@
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
-- 🚀 Build intelligent BI systems that drive decision-making  
-- 📈 Lead data-driven projects across cross-functional teams  
-- 🌍 Collaborate globally on open data or impact-driven analytics  
-- 💼 Land a full-time role as a Data Analyst / BI Analyst at a growth-focused company  
-- 💡 Eventually contribute to data literacy initiatives & mentoring
+- Build intelligent BI systems that drive decision-making  
+- Lead data-driven projects across cross-functional teams  
+- Collaborate globally on open data or impact-driven analytics  
+- Land a full-time role as a Data Analyst / BI Analyst at a growth-focused company  
+- Eventually contribute to data literacy initiatives & mentoring
 
 ---
 
@@ -50,31 +50,31 @@
 
 ## 🛠️ Tools & Workflow
 
-- 📌 Data cleaning with **Pandas**, **NumPy**
-- 📊 Dashboarding in **Power BI**, **Excel**
-- 🔁 Automation via **Python scripting**
-- 🗃️ Version control with **Git & GitHub**
-- 📎 Documentation and reporting in **Notion**, **Markdown**, **Google Workspace**
+- Data cleaning with **Pandas**, **NumPy**
+- Dashboarding in **Power BI**, **Excel**
+- Automation via **Python scripting**
+- Version control with **Git & GitHub**
+- Documentation and reporting in **Notion**, **Markdown**, **Google Workspace**
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- 🧠 Machine Learning for analytics use cases  
-- 📈 Time Series Forecasting  
-
----
-
-## 🏆 Achievements
-
-- 🏅 Built 5 complete end-to-end dashboarding projects using real datasets  
-- 📊 Designed a churn model with +80% accuracy using logistic regression  
-- 🌐 Published multiple open-source analytics reports  
-- ⭐ GitHub repo featured in community discussions  
+- Machine Learning for analytics use cases  
+- Time Series Forecasting  
 
 ---
 
-## 📊 Featured Projects
+## Achievements
+
+- Built 5 complete end-to-end dashboarding projects using real datasets  
+- Designed a churn model with +80% accuracy using logistic regression  
+- Published multiple open-source analytics reports  
+- GitHub repo featured in community discussions  
+
+---
+
+## Featured Projects
 
 - 📌 [Awesome Chocolate - Shipment & Sales Analytics](https://github.com/SatyaGanesh07/Awesome-Choco-Sales-Analytics-PowerBi.git)
 - 📌 [Airline Reservation Management](https://github.com/SatyaGanesh07/Airline-Reservation-Management-MySQL.git)  
@@ -83,27 +83,27 @@
 
 ---
 
-## 👥 Community & Collaboration
+## Community & Collaboration
 
-- 💬 Active in data communities on **LinkedIn**, **Reddit**, and **Discord**  
-- 📣 Attended multiple online data bootcamps and meetups  
-- 🤝 Open to collaborations on dashboards, analytics projects, and visual storytelling
+- Active in data communities on **LinkedIn**, **Reddit**, and **Discord**  
+- Attended multiple online data bootcamps and meetups  
+- Open to collaborations on dashboards, analytics projects, and visual storytelling
 
-
----
-
-## 💡 Fun Fact
-
-> I love building dashboards so much, I once tracked my coffee consumption trends in Power BI ☕📈
 
 ---
 
-## 🔎 Open to Opportunities
+## Fun Fact
 
-- ✅ Full-time Data Analyst roles  
-- ✅ Remote or hybrid options  
-- ✅ Freelance dashboard/reporting work  
-- 📩 DM me or reach out via email!
+> I love building dashboards so much, I once tracked my coffee consumption trends in Power BI 
+
+---
+
+## Open to Opportunities
+
+- Full-time Data Analyst roles  
+- Remote or hybrid options  
+- Freelance dashboard/reporting work  
+- DM me or reach out via email!
 
 ---
 
