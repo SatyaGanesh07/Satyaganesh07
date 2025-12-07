@@ -108,11 +108,11 @@
 
 ---
 
-## 📬 How to Reach Me
+## How to Reach Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/satyaganesh-data-analyst/)  
-- 💼 [Portfolio Website](https://satyaganesh-analyst-portfolio-proje.vercel.app/)  
-- 📫 **Email**: satyaganesh415@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/satyaganesh-data-analyst/)  
+- [Portfolio Website](https://satyaganesh-analyst-portfolio.vercel.app/)  
+- **Email**: satyaganesh415@gmail.com
 
 ---
 
