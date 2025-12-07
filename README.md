@@ -1,10 +1,10 @@
 ![logo](https://github.com/SatyaGanesh07/Satyaganesh07/blob/07516b1b5ab63be0c4dbfd025dc217623d45b84c/satyaganesh07_coverPage.png)
-<h1 align="center">👋 Hi, I'm SatyaGanesh!</h1>
+<h1 align="center"> Hi, I'm SatyaGanesh!</h1>
 <h3 align="center">A Passionate Data Analyst | Turning Data Into Insightful Stories</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -48,13 +48,14 @@
 
 ---
 
-## 🛠️ Tools & Workflow
+## Tools & Workflow
 
 - Data cleaning with **Pandas**, **NumPy**
 - Dashboarding in **Power BI**, **Excel**
 - Automation via **Python scripting**
 - Version control with **Git & GitHub**
 - Documentation and reporting in **Notion**, **Markdown**, **Google Workspace**
+- other : Snwoflake MySQL,Azure,Jira
 
 ---
 
